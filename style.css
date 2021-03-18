@@ -1,0 +1,12 @@
+body{
+    background-color:pink;
+
+}
+#output{
+    border-top: 10px solid purple;
+    background-color: white;
+    border-radius :15px ;
+    margin-left: 375px;
+    text-align: left;
+    padding: 10px;
+}

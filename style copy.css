@@ -1,0 +1,21 @@
+body{
+    background-color:pink;
+
+
+}
+
+.player1{
+    border-top:10px solid red;
+    background: white;
+    border-radius: 15px;
+    margin-left: 300px;
+
+    margin-top:25px;
+}
+.player2{   
+    border-top:10px solid red;
+    background: white;
+    border-radius:15px;
+    margin-left:300px;
+    margin-top: 100px;
+}
